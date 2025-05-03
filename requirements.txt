@@ -1,0 +1,27 @@
+assemblyai>=0.17.0
+moviepy>=1.0.3
+python-dotenv>=1.0.0
+pydub>=0.25.1
+pillow>=10.4.0
+requests>=2.31.0
+gtts>=2.5.4
+nltk>=3.8.1
+# For AI image generation (diffusion models)
+diffusers==0.27.2
+torch==2.2.1
+transformers==4.39.3
+accelerate==0.27.2
+# For OpenVoice TTS
+openvoice-tts==0.1.0
+# For video processing
+opencv-python==4.8.1
+# For Unsplash API
+python-unsplash==1.1.0
+# For audio processing
+soundfile==0.12.1
+librosa==0.10.1
+# For ElevenLabs integration
+ffmpeg-python==0.2.0
+elevenlabs
+numpy
+Pillow

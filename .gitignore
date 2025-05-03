@@ -1,0 +1,15 @@
+# Media files
+*.mp4
+*.mp3
+*.wav
+*.srt
+
+# Environment files
+.env
+
+# Generated files
+*.json
+
+# Directories
+b_roll/
+chunks/
